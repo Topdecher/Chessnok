@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "SupportKeys",
+            "id": "b8aaaae6-1606-4d7a-be8d-57339724074a",
+            "actions": [
+                {
+                    "name": "ToMenu",
+                    "type": "Button",
+                    "id": "f2a14c1b-874c-411d-bc05-316c93c8bde7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d93162ff-66f0-43df-b2ac-f29a9f7afe6c",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

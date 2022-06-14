@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 11.05.2022 19:13:02 : Starting C:/KovalenkoDB/ForUnity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3330,2423ms
+moved types parse time: 104ms
+candidates parse time : 34ms
+C# parse time         : 768ms
+candidates check time : 88ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 16.05.2022 22:57:01 : Starting C:/KovalenkoDB/ForUnity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2549,696ms
+moved types parse time: 101ms
+candidates parse time : 10ms
+C# parse time         : 638ms
+candidates check time : 55ms
+console write time    : 11ms
+
+[api-updater (non-obsolete-error-filter)] 13.06.2022 19:04:48 : Starting C:/KovalenkoDB/ForUnity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2372,618ms
+moved types parse time: 103ms
+candidates parse time : 4ms
+C# parse time         : 898ms
+candidates check time : 67ms
+console write time    : 95ms
+
